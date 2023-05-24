@@ -1,6 +1,6 @@
 # A Machine Learning Python-based Search Engine Optimization Audit Software
 
-**Description**:  This opensource software provides support for the scientific documentation presented in the research article entitled "A Machine Learning Python-based Search Engine Optimization Audit Software" that has been published in [Applied Sciences | MDPI](www.mdpi.com/journal/applsci) academic journal.
+**Description**:  This opensource software provides support for the scientific documentation presented in the research article entitled "A Machine Learning Python-based Search Engine Optimization Audit Software" that has been published in [Applied Sciences | MDPI](https://www.mdpi.com/journal/applsci) academic journal.
 
 **Aim**: The present study aims to develop an open-source Python-based SEO audit software that will be accessible to the general public without charge and that will perform functions comparable to those offered by commercial SEO audit tools at a cost. The overarching objective is to produce an open-source SEO tool that will provide users with recommendations on appropriate SEO techniques, based on the analysis of their competitors' websites, with the aim of optimizing their own websites for SEO and achieving improved search rankings and traffic.
 
