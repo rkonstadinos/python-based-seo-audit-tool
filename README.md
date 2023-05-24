@@ -25,7 +25,7 @@
 - You will need to generate a free API KEY from [mobileFriendlyTest: Google Search Console Testing Tools API](https://developers.google.com/webmaster-tools/search-console-api/v1/configure) page. ( [Usage Limits](https://developers.google.com/webmaster-tools/search-console-api/limits) )
 - Finally, you will need to generate a free API KEY from [PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started) page.
 
-If all of the above seems difficult to you, contact us so that we can create the keys together and export the code in an executable format, eg .exe to run without installation on your computer.
+If you encounter challenges while following the aforementioned steps, we are available to assist you in creating the required keys and exporting your code into an executable format. This executable can be executed directly on your computer without the need for any installation process. Please feel free to reach out to us for further guidance and support in this regard.
 ## Built With
 
 * [ZenSerp API](https://zenserp.com/) - Used to get the SERPs
