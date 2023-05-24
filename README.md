@@ -20,8 +20,8 @@
   - from sklearn.metrics import mean_squared_error
   - import joblib
   - import re
-- Next, you will need to generate a free API KEY from the ZenSerp [ZenSerp](https://app.zenserp.com/register?plan=free) page. ( 50 requests / month for free )
-- You will need to generate a free API KEY from [MOZ](https://moz.com/products/api/pricing) page. ( Free access allows for one request every ten seconds, up to 2,500 rows per month )
+- Next, you will need to generate a free API KEY from the ZenSerp [ZenSerp](https://app.zenserp.com/register?plan=free) page. ( Usage Limit: 50 requests / month for free )
+- You will need to generate a free API KEY from [MOZ](https://moz.com/products/api/pricing) page. ( Usage Limit: Free access allows for one request every ten seconds, up to 2,500 rows per month )
 - You will need to generate a free API KEY from [mobileFriendlyTest: Google Search Console Testing Tools API](https://developers.google.com/webmaster-tools/search-console-api/v1/configure) page. ( [Usage Limits](https://developers.google.com/webmaster-tools/search-console-api/limits) )
 - Finally, you will need to generate a free API KEY from [PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started) page.
 
