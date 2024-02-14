@@ -2,7 +2,7 @@
 
 ## Published Paper
 * **Journal**: [Informatics | An Open Access Journal from MDPI](https://www.mdpi.com/journal/informatics)
-* **Title**: A Machine Learning Python-Based Search Engine Optimization Audit Software
+* **Title**: [A Machine Learning Python-Based Search Engine Optimization Audit Software](https://www.mdpi.com/2227-9709/10/3/68)
 * **DOI**: https://doi.org/10.3390/informatics10030068
 
 ## Authors
