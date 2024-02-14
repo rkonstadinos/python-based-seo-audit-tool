@@ -1,8 +1,16 @@
-# A Machine Learning Python-based Search Engine Optimization Audit Software
+# A Machine Learning Python-Based Search Engine Optimization Audit Software
 
-**Description**:  This opensource software provides support for the scientific documentation presented in the research article entitled "A Machine Learning Python-based Search Engine Optimization Audit Software" that has been published in [Applied Sciences | MDPI](https://www.mdpi.com/journal/applsci) academic journal.
+## Published Paper
+* **Journal**: [Informatics | An Open Access Journal from MDPI](https://www.mdpi.com/journal/informatics)
+* **Title**: A Machine Learning Python-Based Search Engine Optimization Audit Software
+* **DOI**: https://doi.org/10.3390/informatics10030068
 
-**Aim**: The present study aims to develop an open-source Python-based SEO audit software that will be accessible to the general public without charge and that will perform functions comparable to those offered by commercial SEO audit tools at a cost. The overarching objective is to produce an open-source SEO tool that will provide users with recommendations on appropriate SEO techniques, based on the analysis of their competitors' websites, with the aim of optimizing their own websites for SEO and achieving improved search rankings and traffic.
+## Authors
+* **Konstantinos I. Roumeliotis**
+* **Prof. Nikolaos D. Tselikas**
+
+## Abstract
+In the present-day digital landscape, websites have increasingly relied on digital marketing practices, notably search engine optimization (SEO), as a vital component in promoting sustainable growth. The traffic a website receives directly determines its development and success. As such, website owners frequently engage the services of SEO experts to enhance their website’s visibility and increase traffic. These specialists employ premium SEO audit tools that crawl the website’s source code to identify structural changes necessary to comply with specific ranking criteria, commonly called SEO factors. Working collaboratively with developers, SEO specialists implement technical changes to the source code and await the results. The cost of purchasing premium SEO audit tools or hiring an SEO specialist typically ranges in the thousands of dollars per year. Against this backdrop, this research endeavors to provide an open-source Python-based Machine Learning SEO software tool to the general public, catering to the needs of both website owners and SEO specialists. The tool analyzes the top-ranking websites for a given search term, assessing their on-page and off-page SEO strategies, and provides recommendations to enhance a website’s performance to surpass its competition. The tool yields remarkable results, boosting average daily organic traffic from 10 to 143 visitors.
 
 ## Installation
 
@@ -32,24 +40,3 @@ If you encounter challenges while following the aforementioned steps, we are ava
 * [MOZ API](https://moz.com/products/api/pricing) - Used to get the DA
 * [mobileFriendlyTest: Google Search Console Testing Tools API](https://developers.google.com/webmaster-tools/search-console-api/v1/configure) - Used to perform a mobile-friendly test
 * [PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started) - Used to perform a speed test
-
-## Authors
-
-* **Konstantinos I. Roumeliotis**
-* **Prof. Nikolaos D. Tselikas**
-
-## License
-
-This project is licensed under the MIT License.
-The python libraries and APIs used clearly belong to their respective owners.
-
-MIT License
-
-Copyright (c) 2023 Konstantinos I. Roumeliotis, Nikolaos D. Tselikas
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
